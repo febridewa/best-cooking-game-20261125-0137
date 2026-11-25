@@ -1,0 +1,9 @@
+Build ONE entry, best-of-the-best, genuinely aiming to beat the top entries.
+
+COMPETITION: best-cooking-game-20261125-0137 — "Best Cooking Game", $250, deadline 25 Nov 2026 20:37 WIB (2026-11-25T13:37:00Z).
+
+AUTHORIZATION: Dewa (make.fun @febridewa, GitHub febridewa) gave a queue-wide go-ahead "Gas" at 10:15 WIB 25 Nov 2026. You are authorized to fetch requirements/kit, build, run grade-local/check, create the GitHub repo, bundle, check, and push.
+
+HARD BOUNDARIES (never break): never spend SOL; never buy credits, API keys or anything; never do a real-money/on-chain transaction; if you find an entry fee > $0, STOP and report it (do not enter); if the kit requires STRICT transcripts/sealed recordings (transcripts_witnessed applies=true), STOP and report it (do not enter); never submit the entry (the parent verifies and submits); never probe make.fun production for vulnerabilities.
+
+Build the game (follow the kit's stack/constraints), then run grade-local (or the kit check) until it passes with margin. Create GitHub repo febridewa/best-cooking-game-20261125-0137 (public). Set About: homepage https://make.fun/bounty/best-cooking-game-20261125-0137, topic makefun. README must carry referral 6etrfz79 and the three LIVE make.fun badges. MIT LICENSE. Bundle transcripts, run the kit check on the bundle. Commit + push to branch submission. DO NOT submit.
